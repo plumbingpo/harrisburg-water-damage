@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationharrisburg.com/sitemap.xml
